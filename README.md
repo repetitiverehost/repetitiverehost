@@ -1,1 +1,2 @@
-Inquiries at Discord/Matrix: _repetitivethecat/@repetitive_:matrix.org
+Inquiries at Discord/Matrix: _repetitivethecat
+@repetitive_:matrix.org
