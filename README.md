@@ -1,1 +1,1 @@
-repetive_host :3
+Inquiries at Discord/Matrix: _repetitivethecat/@repetitive_:matrix.org
